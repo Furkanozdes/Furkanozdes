@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D03AQHbCnK0MhRgTw%2Fprofile-displayphoto-shrink_800_800%2F0%2F1681720825119%3Fe%3D2147483647%26v%3Dbeta%26t%3D2sw7EF_9GiBfuU9gvUw5QBdEAkzvFnGd130UHCcNgnw&tbnid=GrcARGA0klLplM&vet=12ahUKEwigg6iUt_SDAxUd9AIHHTizCAUQMygAegQIARAt..i&imgrefurl=https%3A%2F%2Ftr.linkedin.com%2Fin%2Fbattal-furkan-%25C3%25B6zde%25C5%259F-913836247&docid=t8cU3iosNA68OM&w=760&h=760&q=battal%20furkan%20%C3%B6zde%C5%9F%20linkedin&ved=2ahUKEwigg6iUt_SDAxUd9AIHHTizCAUQMygAegQIARAt)
+
 <h1 align="center">Hi 👋, I'm Battal Furkan Özdeş</h1>
 <h3 align="center">Software Engineering Student From Turkey</h3>
 
