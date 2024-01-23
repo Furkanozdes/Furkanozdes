@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Battal Furkan Özdeş</h1>
 <h3 align="center">Software Engineering Student From Turkey</h3>
 
-- 🔭 I’m currently working on **Mobile Game Development**
+- 🔭 I’m currently learning **Unity**
 
 - 📫 How to reach me **battalfurkanozdes@gmail.com**
 
