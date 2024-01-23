@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Battal Furkan Özdeş</h1>
+<h1 align="center"> Battal Furkan Özdeş</h1>
 <h3 align="center">Software Engineering Student From Turkey</h3>
 
 - 🔭 I’m currently learning **Unity**
